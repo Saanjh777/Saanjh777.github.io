@@ -2,3 +2,9 @@ img {
     width:350px;
     height:500px;
 }
+p i {
+    color:rgb(23, 103, 117);
+}
+p {
+    max-width:650px;
+}
